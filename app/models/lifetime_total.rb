@@ -1,0 +1,2 @@
+class LifetimeTotal < ApplicationRecord
+end
